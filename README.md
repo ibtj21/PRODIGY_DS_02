@@ -3,6 +3,8 @@
 ## Project Description
 This project focuses on the data cleaning and exploratory data analysis (EDA) of the **World Happiness Report 2024 Dataset**. The objective is to uncover key trends, insights, and relationships within the data,and enhancing  understanding of global happiness levels.
 
+For a more detailed and complete overview, visit the notebook: [Task02_DataCleaning_EDA_Project.ipynb](https://github.com/ibtj21/PRODIGY_DS_02/blob/main/Task02_DataCleaning_EDA_Project.ipynb).
+
 ## Notebook Highlights
 The Jupyter notebook includes:
 - **Dataset Overview**: A comprehensive description of the dataset, including its source and key variables.
