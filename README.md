@@ -36,6 +36,6 @@ pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook
 ## Contact
 Feel free to reach out for any concern  via 
-[LinkedIn](https://www.linkedin.com/in/hana-hailemariam-gashaw-3810a831a/) or [GitHub profile](https://github.com/hana-hailemariam-gashaw).
+[LinkedIn](https://www.linkedin.com/in/hana-hailemariam-gashaw-3810a831a/) or [GitHub profile](https://github.com/ibtj).
 
 
