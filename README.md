@@ -22,20 +22,24 @@ To execute this notebook, please follow these steps:
    ```bash
    git clone https://github.com/ibtj21/DataCleaning_EDA_Project.git
 2. Navigate to the Project Directory: Move into the project directory:
-cd DataCleaning_EDA_Project
-3. Install Dependencies: You will need to install the following libraries:
 
-    pandas
-    numpy
-    matplotlib
-    seaborn
-    jupyter
+    cd DataCleaning_EDA_Project
+
+3. Install Dependencies: You will need to install the following libraries:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- jupyter
+
 You can install these libraries using the following command:
-pip install pandas numpy matplotlib seaborn jupyter
+
+   pip install pandas numpy matplotlib seaborn jupyter
+
 4. Open the Notebook: Launch Jupyter Notebook by running:
 jupyter notebook
 ## Contact
 Feel free to reach out for any concern  via 
-[LinkedIn](https://www.linkedin.com/in/hana-hailemariam-gashaw-3810a831a/) or [GitHub profile](https://github.com/ibtj).
+[LinkedIn](https://www.linkedin.com/in/hana-hailemariam-gashaw-3810a831a/) or [GitHub profile](https://github.com/ibtj21).
 
 
