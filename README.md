@@ -18,10 +18,10 @@ To execute this notebook, please follow these steps:
 
 1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/ibtj21/DataCleaning_EDA_Project.git
+   git clone https://github.com/ibtj21/PRODIGY_DS_02.git
 2. Navigate to the Project Directory: Move into the project directory:
 
-    cd DataCleaning_EDA_Project
+    cd Task02_DataCleaning_EDA_Project
 
 3. Install Dependencies: You will need to install the following libraries:
 - pandas
