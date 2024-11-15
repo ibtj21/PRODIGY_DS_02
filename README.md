@@ -1,4 +1,4 @@
-# WORLD_HAPPINESS_DS_02  
+# WORLD_HAPPINESS_DS02  
 ### Analyzing Global Happiness Indicators Using the World Happiness Report 2024 Dataset  
 
 ## Table of Contents  
@@ -7,7 +7,7 @@
 - [Data Source](#data-source)  
 - [Installation](#installation)  
 - [Usage](#usage)  
-    - [Data Preprocessing and Analysis](#data-preprocessing-and-analysis)  
+    - [Data Cleaning and Analysis](#data-cleaning-and-analysis)  
     - [Exploratory Data Analysis](#exploratory-data-analysis)  
 - [Recommendations](#recommendations)  
 - [Contributors](#contributors)  
@@ -24,7 +24,7 @@ ___
 ## Overview  
 The project involves:  
 1. Analyzing the World Happiness Report 2024 dataset to understand the factors contributing to happiness levels across countries.  
-2. Performing data cleaning and preprocessing to ensure the dataset is suitable for analysis.  
+2. Performing **data cleaning** to ensure the dataset is suitable for analysis.  
 3. Conducting exploratory data analysis (EDA) to uncover trends, correlations, and patterns in the data.  
 4. Identifying key factors that influence happiness based on visual and statistical analysis.  
 5. Offering recommendations for policymakers to improve happiness indicators across regions.  
@@ -44,12 +44,12 @@ To set up the project, follow these steps:
 
 1. Clone the repository to your local machine:  
     ```bash  
-    git clone https://github.com/ibtj21/World_Happiness_DT_01.git  
+    git clone https://github.com/ibtj21/World_Happiness_DS02.git  
     ```  
 
 2. Navigate to the project directory:  
     ```bash  
-    cd World_Happiness_DT_01  
+    cd World_Happiness_DS02  
     ```  
 
 3. Install the required dependencies:  
@@ -67,7 +67,7 @@ ___
 
 ## Usage  
 
-### Data Preprocessing and Analysis  
+### Data Cleaning and Analysis  
 1. **Data Cleaning**:  
    - Remove any duplicate rows and handle missing values.  
    - Convert columns to appropriate data types (e.g., numeric, categorical).  
@@ -81,7 +81,7 @@ ___
    - Social support as a significant predictor of happiness in many regions.  
    - Influence of healthy life expectancy on happiness levels.  
 
-Find the complete implementation [here](https://github.com/ibtj21/World_Happiness_DT_01/blob/main/World_Happiness_Analysis.ipynb).  
+Find the complete implementation [here](https://github.com/ibtj21/PRODIGY_DS_02/blob/main/Task02_DataCleaning_EDA_Project.ipynb).  
 
 ___  
 
@@ -121,4 +121,4 @@ Ensure your contributions align with the project's coding standards.
 ___  
 
 ## License  
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/ibtj21/World_Happiness_DT_01/blob/main/LICENSE) file for details.  
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ibtj21/PRODIGY_DS_02/blob/main/LICENSE) file for details.  
